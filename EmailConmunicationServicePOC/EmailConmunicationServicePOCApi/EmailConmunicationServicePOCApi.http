@@ -1,0 +1,6 @@
+@EmailConmunicationServicePOCApi_HostAddress = http://localhost:5114
+
+GET {{EmailConmunicationServicePOCApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
